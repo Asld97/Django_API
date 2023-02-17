@@ -1,2 +1,4 @@
 # Django_API
-Django API first try + ToDo APP
+* Learning how to create REST API uing Django Rest Framework
+* Prepare backend API
+* Consume API with JS
